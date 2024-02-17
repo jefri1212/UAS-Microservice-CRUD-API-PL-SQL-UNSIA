@@ -285,6 +285,7 @@ You can test our REST API with [Postman](https://www.postman.com/). You can down
 
 2. TRIGGER LOG
 there is email and password that saved on database
+
 ![image](https://github.com/josikie/UAS-Microservice-CRUD-API-PL-SQL-UNSIA/assets/63739078/565b4c31-8ab8-4009-b91d-8cc8cbf4e5fc)
 
 when the user changes data, the changes will be saved in the audit_log table with encypted aes256 format
